@@ -49,3 +49,5 @@ Maintenance: If it is true before an iteration of the loop, it remains true befo
 Termination: When the loop terminates, the invariant gives us a useful property that helps show that the algorithm is correct.
 
 [Watch Explanation on YouTube](https://www.youtube.com/watch?v=SElE4RlAji0)
+
+[What is Loop Variant?](https://www.baeldung.com/cs/loop-invariant#:~:text=The%20requirement%20that%20the%20invariant,until%20the%20loop%20has%20ended.)
